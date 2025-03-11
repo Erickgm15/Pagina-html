@@ -1,0 +1,70 @@
+.Seccion4{
+    padding: 48px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.texto7{
+font-family: 'Roboto';
+font-size: 20px;
+color: #486284;
+
+
+
+}
+.texto8{
+    font-size:20px;
+    color: #78aff7;
+    font-family: 'Roboto';
+    text-align: center;
+
+   
+}
+
+.description4{
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #8CA2C0;
+   
+}
+
+.imagen1{
+    padding: 0 24px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+    
+.btn6{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+}
+
+.btn7{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+}	

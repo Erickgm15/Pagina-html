@@ -1,0 +1,86 @@
+.Seccion3 {
+    padding: 48px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.texto5 {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #3486ac;
+    text-align: center;
+}
+
+.texto6 {
+    font-size: 24px;
+    font-family: Roboto;
+    color: #3486ac;
+   text-align: center;
+}
+
+.description3 {
+    font-size: 16px;
+    font-family: roboto;
+    color: #b1b1b1;
+    text-align: center;
+    font-size: 0 24px;
+}
+
+.btn4 {
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 200px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+
+    background-color: rgb(18, 18, 51);
+}
+
+.btn5{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px; 
+
+}
+
+.Tru2{
+    color: #3486ac;
+    font-family: Roboto;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    width: 100%; 
+}
+
+.logJ1{
+    height: 45px;
+}
+
+.logojs{
+    height: 45px;
+}
+
+.logoF{
+    height: 30px;
+}
